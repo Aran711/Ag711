@@ -53,7 +53,14 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will read the stages more carefully instead of rushing through it and I work more efficiently.</td>
+    <td>I will read the stages more carefully instead of rushing through it and I will work more efficiently.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Code Academy Certificates</td>
   </tr>
   <tr>
     <td></td>
